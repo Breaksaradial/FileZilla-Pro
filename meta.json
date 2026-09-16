@@ -1,0 +1,23 @@
+{
+  "repo": "filezilla-pro",
+  "product": "FileZilla Pro",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "ftp-client",
+  "topics": [
+    "filezilla-pro",
+    "sftp-site-book",
+    "transfer-queue-windows",
+    "filezilla-pro-2026",
+    "how-to-install-filezilla-pro",
+    "filezilla-pro-package",
+    "folder-compare-suite",
+    "cloud-site-desk",
+    "parallel-transfer-tools",
+    "filezilla-pro-guide"
+  ],
+  "site": "toolix.me"
+}
